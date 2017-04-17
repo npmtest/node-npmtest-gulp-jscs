@@ -1,13 +1,13 @@
 <svg height="158" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="158" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 14:39:50 +0000    10094 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 14:39:50 +0000     1713 bytes  index.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 14:39:50 +0000     1119 bytes  license</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 14:39:50 +0000     2739 bytes  package.json</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 14:39:50 +0000     2659 bytes  readme.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 14:39:50 +0000      897 bytes  reporters/fail.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 14:39:50 +0000      663 bytes  reporters/index.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 14:39:50 +0000      304 bytes  reporters/load-reporter.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 22:09:36 +0000    10094 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 22:09:36 +0000     1713 bytes  index.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 22:09:36 +0000     1119 bytes  license</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 22:09:36 +0000     2739 bytes  package.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 22:09:36 +0000     2659 bytes  readme.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 22:09:36 +0000      897 bytes  reporters/fail.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 22:09:36 +0000      663 bytes  reporters/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 22:09:36 +0000      304 bytes  reporters/load-reporter.js</tspan>
 </text>
 </svg>
