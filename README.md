@@ -1,7 +1,7 @@
 # test coverage for  [gulp-jscs (v4.0.0)](https://github.com/jscs-dev/gulp-jscs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-jscs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-jscs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-jscs.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-jscs)
 #### Check JavaScript code style with jscs
 
-[![NPM](https://nodei.co/npm/gulp-jscs.png?downloads=true)](https://www.npmjs.com/package/gulp-jscs)
+[![NPM](https://nodei.co/npm/gulp-jscs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-jscs)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-jscs/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-jscs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-jscs/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-jscs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-jscs/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-jscs/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-jscs/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-jscs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-jscs/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-jscs/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-jscs%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-jscs/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-jscs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-jscs/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-jscs/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-jscs%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-jscs/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-jscs/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-jscs/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-jscs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-jscs/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-jscs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-jscs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-jscs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-jscs/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-jscs/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "Sindre Sorhus",
-        "email": "sindresorhus@gmail.com",
         "url": "sindresorhus.com"
     },
     "bugs": {
@@ -78,17 +83,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "mikesherov",
-            "email": "mike.sherov@gmail.com"
+            "name": "mikesherov"
         }
     ],
     "name": "gulp-jscs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jscs-dev/gulp-jscs.git"
