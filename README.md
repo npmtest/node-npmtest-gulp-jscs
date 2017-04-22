@@ -1,4 +1,7 @@
-# test coverage for  [gulp-jscs (v4.0.0)](https://github.com/jscs-dev/gulp-jscs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-jscs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-jscs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-jscs.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-jscs)
+# npmtest-gulp-jscs
+
+#### basic test-coverage for  [gulp-jscs (v4.0.0)](https://github.com/jscs-dev/gulp-jscs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-jscs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-jscs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-jscs.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-jscs)
+
 #### Check JavaScript code style with jscs
 
 [![NPM](https://nodei.co/npm/gulp-jscs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-jscs)
@@ -98,7 +101,8 @@
     "scripts": {
         "test": "xo && mocha"
     },
-    "version": "4.0.0"
+    "version": "4.0.0",
+    "bin": {}
 }
 ```
 
